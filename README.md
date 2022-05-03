@@ -30,3 +30,12 @@ La disposicipon de pago, se construye por etapas.
    4. [ ] Diferencias entre la interpretación de estos si es Log()/Nivel.
 2. [ ] Se recoge el atributo del modelo llamado Semanas, estas Poseen la particularidad de influir en el precio, como se mencionó anteriormente, es por ello que se adieren en el modelo.
 3. [ ] Las semanas.
+
+
+## Otro modo
+1. [ ] Modelo OLS para definir p value
+    - [X] Simple Q+ Año
+    - [X] Polinomial +Año
+    - [ ] Log/Nivel Q+Año
+    - [ ] Log/Log(Q)+Año
+    
