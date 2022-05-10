@@ -21,11 +21,11 @@ Modelos de regresión lineal OLS P(Q), __sin atributo Año__
   
   Es lo mismo el archivo anterior pero __con la variable Año__
 
-  - $P(Q,A)=\beta_1Q +\beta_a A  +\beta_0$
-  - $P(Q,A)=\beta_1Q +\beta_2 Q^2 + \beta_3Q^3 +\beta_a A +\beta_0$
-  - $P(Q,A)=\beta_1Q +\beta_2 Q^2 + \beta_3Q^3 +\beta_a A +\beta_0$
-  - $\ln(P(Q,A))=\beta_1Q +\beta_a A +\beta_0$
-  - $\ln(P(Q,A))=\beta_1\ln(Q) +\beta_a A +\beta_0$ 
+- $P(Q,A)=\beta_1Q +\beta_a A  +\beta_0$
+- $P(Q,A)=\beta_1Q +\beta_2 Q^2 + \beta_3Q^3 +\beta_a A +\beta_0$
+- $P(Q,A)=\beta_1Q +\beta_2 Q^2 + \beta_3Q^3 +\beta_a A +\beta_0$
+- $\ln(P(Q,A))=\beta_1Q +\beta_a A +\beta_0$
+- $\ln(P(Q,A))=\beta_1\ln(Q) +\beta_a A +\beta_0$ 
 
 ## A_2 ) Construccion modelo [Tradicional 1010078]
   
