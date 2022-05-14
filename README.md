@@ -74,3 +74,19 @@ Pasos:
     - [X] Color equivalente a la Valoración
     - [ ] Una grafica por Semana
     - [X] Recta representado el valor corespondiente a la realción P/Q
+
+
+## Tareas Remoto:
+ 1. [ ] Descargar CSVs
+     - [ ] Weeek
+     - [ ] Customers
+     - [ ] RFM.
+ 2. [ ] Descargar Graficos
+     - [ ] Atributos
+     - [ ] Disp_de_pago
+ 3. [ ] Definir tareas ya cumplidas
+ 4. [ ] Establecer cronograma, tareas futuras o carta gand con pasos a seguir a futuro. Para presentarselo al profesor el lunes.
+
+
+
+
